@@ -2,11 +2,9 @@
   margin: 30 px 10px;
   padding: 10px;
   background-color: #eee;
-  
 }
 
-
-.text-center{
+.text-center {
   text-align: center;
 }
 #container {
@@ -33,7 +31,38 @@ img {
 }
 
 #heading {
- text-align: center;
- font-weight: bold;
- font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+ul {
+  font-family: verdana;
+  font-size: 16px;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  margin-block-start: 16px;
+  margin-block-end: 16px;
+  padding-inline-start: 40px;
+}
+
+li {
+  display: list-item;
+  margin: 16px 0;
+}
+
+.quote {
+  font-weight: 400px;
+  font-size: 16px;
+  margin: 0 auto 50px auto;
+  max-width: 545px;
+  font-style: italic;
+  text-align: left;
+  display: block;
+  margin-block-start: 16px;
+  margin-block-end: 16px;
+  /*margin-inline-start: 0px;
+  margin-inline-end: 0px; */
 }
