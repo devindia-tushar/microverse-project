@@ -5,3 +5,17 @@
   background-color: #eee;
 }
 
+#container {
+  margin: auto;
+  background-color: #fff;
+}
+
+img {
+  width: 80%;
+  margin-top: 30px;
+}
+
+#description {
+  font-size: 15px;
+  padding-bottom: 30px;
+}
